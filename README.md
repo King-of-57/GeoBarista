@@ -3,6 +3,9 @@
 
 GeoBarista is a cross-platform application built on web technology to sort/filter/view/convert geo-referenced imagery on a map. 
 
+## [Demo](https://www.youtube.com/watch?v=XQ9gt5smfOg&list=PL8UcQG2HIo47ipmo-apJVxOnvWq10RnF8&index=8&t=0s)
+
+
 ## How to use
 
 This will create the dist directory to be filled based on the current operating system.
